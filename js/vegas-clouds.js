@@ -14,7 +14,7 @@ $(window).load(function() {
 
         $('.overlay').vegas({
             slides: [
-                { src: 'img/sky.jpg' },
+                { src: 'webp/sky.webp' },
             ],
         });
 
